@@ -1,0 +1,15 @@
+{
+  "compilerOptions": { 
+    "target": "es6",
+    "module": "commonjs",
+    "rootDir": "./",
+    "outDir": "./build",
+    "esModuleInterop": true,
+    "strict": false,
+    "importHelpers": true,
+    "experimentalDecorators": true,
+    "emitDecoratorMetadata": true,  
+    "skipLibCheck": true,  
+    "forceConsistentCasingInFileNames": true  
+  }
+}
